@@ -1,2 +1,8 @@
-# 30 DAYS - REACT NATIVE
+# 30DAYS: REACT NATIVE
 
+## Prerequisites
+
+## Day-0001: 
+
+
+ 
